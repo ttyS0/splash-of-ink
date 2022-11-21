@@ -1,0 +1,3 @@
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = git@git.skj.dev:sean/hugo-blowfish.git
