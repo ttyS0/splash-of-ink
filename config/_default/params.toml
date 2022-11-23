@@ -6,13 +6,14 @@
 # https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
 
 colorScheme = "blowfish"
-defaultAppearance = "light" # valid options: light or dark
+defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
+defaultBackgroundImage = "img/background.jpg"
 
-# mainSections = ["section1", "section2"]
+mainSections = ["blogs", "stories"]
 # robots = ""
 
 [header]
@@ -26,28 +27,27 @@ enableCodeCopy = true
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  showRecent = true
   showRecentItems = 5
   showMoreLink = false
-  showMoreLinkDest = "/posts"
-  cardView = false
+  showMoreLinkDest = "/blogs"
+  cardView = true
   cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true
   #showViews = true
   #showLikes = true
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background
-  layoutBackgroundBlur = false # only used when heroStyle equals background
+  heroStyle = "background" # valid options: basic, big, background
+  layoutBackgroundBlur = true # only used when heroStyle equals background
   showBreadcrumbs = true
-  showDraftLabel = true
-  showEdit = true
+  showDraftLabel = false
+  showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
@@ -55,24 +55,25 @@ enableCodeCopy = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = true
+  showTableOfContents = false
   showTaxonomies = false 
   showAuthorsBadges = false 
   showWordCount = true
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
+  sharingLinks = [ ]
 
 [list]
-  #showHero = true
-  #heroStyle = "background" # valid options: basic, big, background
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background
   showBreadcrumbs = false
   showSummary = false
   #showViews = true
   #showLikes = true
   showTableOfContents = false
-  showCards = false
-  groupByYear = true
-  cardView = false
+  showCards = true
+  groupByYear = false
+  cardView = true
+  invertPagination = true
   cardViewScreenWidth = false
 
 [sitemap]

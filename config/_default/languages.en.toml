@@ -5,18 +5,19 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Blowfish"
+title = "Splash of Ink"
 # logo = "img/logo.png"
-description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
+description = "Blogs & Stories"
+copyright = "© Sean Johnson"
 
-dateFormat = "2 January 2006"
 
 [author]
-  name = "Your name here"
-  image = "img/blowfish_logo.png"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  name = "a collection of blogs and fiction"
+  image = "img/avatar.jpg"
+  headline = "by sean johnson"
+  links = [
+    { mastodon = "https://skj.social/@sean"}
+  ]
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
