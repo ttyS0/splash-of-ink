@@ -14,7 +14,6 @@ enableCodeCopy = true
 defaultBackgroundImage = "img/background.jpg"
 
 mainSections = ["blogs", "stories"]
-# robots = ""
 
 [header]
   layout = "basic" # valid options: basic, fixed
@@ -29,34 +28,27 @@ mainSections = ["blogs", "stories"]
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   showRecent = true
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/blogs"
+  showRecentItems = 9
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true
-  #showViews = true
-  #showLikes = true
   showDateUpdated = false
   showAuthor = false
   showHero = true
   heroStyle = "basic" # valid options: basic, big, background
-  layoutBackgroundBlur = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = false
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
   showPagination = true
-  invertPagination = false
+  invertPagination = true
   showReadingTime = true
   showTableOfContents = false
-  showTaxonomies = false 
+  showTaxonomies = true
   showAuthorsBadges = false 
   showWordCount = true
   showSummary = true

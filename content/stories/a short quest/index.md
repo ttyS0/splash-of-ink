@@ -12,11 +12,11 @@ With a bluster of rags the witch spun away into a column of dust. The young knig
 
 He required information from the three witches of fate. Absently he felt for the small pouch at his side that contained their payment. With a shudder, his hand jerked away, and he marched deep into the woods.
 
-###
+---
 
 After days of travel, the knight was tired and battered. He had been attacked by a small pack of wolves that the dark elves used to keep wanderers away from their borders. During the battle his map had been destroyed. For the rest of his journey, he would have to rely on his memory of the scratchings.
 
-###
+---
 
 The small hut was surrounded by hanging skulls that glowed with mystic green light. _This must be the place_, the knight thought to himself. With a sense of accomplishment, he approached the dark doorway. 
 
@@ -24,7 +24,7 @@ The small hut was surrounded by hanging skulls that glowed with mystic green lig
 
 To his left stood three eyeless figures, their skeletal arms waving him forward. The knight glanced at the hut, and with a shrug advanced on the figures. 
 
-###
+---
 
 The three witches exited their hut. They scanned the dark forest.
 

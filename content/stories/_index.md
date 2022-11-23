@@ -1,10 +1,6 @@
 ---
-title: "Short Fiction"
+title: "Stories"
 description: "Short stories and flash fiction."
-showSummary: true
-cascade:
-  showDate: false
-  showAuthor: false
 ---
 
 

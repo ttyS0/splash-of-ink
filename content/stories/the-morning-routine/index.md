@@ -24,7 +24,7 @@ Checking his watch, it was now 11:15 AM. He had shaved another minute from the m
 
 Glancing at his watch, he saw the second hand spin towards 12:00 PM. "Damn it!" he yelled. Stopping in the middle of the street, Timothy watched the second hand sweep the dial. 11:58, 11:59....
 
-### 
+---
 
 The lights on the clock read 11:00 AM.
 
