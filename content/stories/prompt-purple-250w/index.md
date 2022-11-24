@@ -5,3 +5,4 @@ summary: "Prompt: Purple / Word Limit: 250"
 showSummary: true
 tags: ["Flash Fiction", "Deadlines For Writers"]
 ---
+
