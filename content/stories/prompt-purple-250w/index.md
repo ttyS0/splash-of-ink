@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2021-10-07
+date: ;d
 summary: "Prompt: Pretty / Word Limit: 99"
 showSummary: true
 tags: ["Flash Fiction", "Deadlines For Writers"]
