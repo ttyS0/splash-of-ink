@@ -20,7 +20,7 @@ Shooting him a look of annoyance, she scurried from the room.
 
 Returning the album to the bookshelf, he paused. He had been five, Rachel six, and she had stolen the key to the cellar. It had been empty, except for an ornate leather and iron bound chest. Rachel had opened it, and removed a golden necklace. Hearing a noise, Philip had checked the door. When he had returned, she was gone.
 
-Solid pushed him against the bookcase with a dull thump. Working his jaw to release the pressure in his ears he turned, and saw a column of purple smoke. As it swirled and dissipated, a woman was revealed. She was about his height, and wore leather garments mixed with colorful sashes. A sword hung at her side, and across her face was a dark scar. Around her neck sparkled a familiar golden necklace. From under silvery blonde hair, dark brown eyes smiled at him.
+Solid wind pushed him against the bookcase with a dull thump. Working his jaw to release the pressure in his ears he turned, and saw a column of purple smoke. As it swirled and dissipated, a woman was revealed. She was about his height, and wore leather garments mixed with colorful sashes. A sword hung at her side, and across her face was a dark scar. Around her neck sparkled a familiar golden necklace. From under silvery blonde hair, dark brown eyes smiled at him.
 
 "Rachel?"
 
