@@ -18,7 +18,8 @@ copyright = "© Sean Johnson"
   links = [
     { mastodon = "https://skj.social/@sean"},
     { github   = "https://github.com/ttyS0"},
-    { lastfm   = "https://www.last.fm/user/skj_dev"}
+    { lastfm   = "https://www.last.fm/user/skj_dev"},
+    { trakt    = "https://trakt.tv/users/skj-tv/history"}
   ]
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
