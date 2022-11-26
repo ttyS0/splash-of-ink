@@ -3,7 +3,7 @@ title: "Cloudflare Tunnel"
 summary: "Using Cloudflare tunnels with Kubernetes"
 showSummary: true
 heroStyle: "basic"
-date: "2022-11-24"
+date: "2022-11-25"
 series: ["Using Cloudflare"]
 series_order: 1
 tags: ["Kubernetes","Cloudflare","SelfHosted"]
@@ -58,11 +58,13 @@ The ConfigMap is straight forward, and contains the following elements:
 	* `service`
 		* This specifies the default endpoint, and I point it to the internal cluster name of my external ingress controller. 
 
-This configuration file can be seen [here](https://github.com/ttyS0/kubernetes/blob/main/cloudflared/configmap.yaml). 
+My ConfigMap file can be seen [here](https://github.com/ttyS0/kubernetes/blob/main/cloudflared/configmap.yaml). 
 
 The Deployment is also straight forward. I don't guarentee any uptimes for anything I self host, so I'm less concerned about HA. Therefore, I'm fine with a single tunnel, and a single `cloudflared` replica. 
 
 The Secrets for the `credentials.json` and `cert.pem` are mounted into the Pod, as is the `config.yaml` ConfigMap. The container is given run arguments of `tunnel --config /etc/cloudflared/config/config.yaml run` , and that's all there is to it. 
+
+My Deployment file can be seen [here](https://github.com/ttyS0/kubernetes/blob/main/cloudflared/deployment.yaml)
 
 ### Post Setup
 
