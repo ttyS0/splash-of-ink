@@ -16,7 +16,9 @@ copyright = "© Sean Johnson"
   image = "img/avatar.jpg"
   headline = "by sean johnson"
   links = [
-    { mastodon = "https://skj.social/@sean"}
+    { mastodon = "https://skj.social/@sean"},
+    { github   = "https://github.com/ttyS0"},
+    { lastfm   = "https://www.last.fm/user/skj_dev"}
   ]
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
