@@ -75,3 +75,7 @@ The records need to be of type `CNAME` have `CloudflareTunnelGUID.cfargotunnel.c
 Another advantage to this approach is the Cloudflare Tunnel will act as an IPv6 gateway of sorts. My Kubernetes cluster is IPv4 only, but if an IPv6 client will get an AAAA record that resolves to the Cloudflare Tunnel endpoint, which in turn connects to `cloudflared` Pod. 
 
 While this approach doesn't guarentee more security than port forwarding ports 80 & 443, I do like that I no longer need to do that. And in the event that my public IP ends up changing, that has no bearing on any of the configuration since the local `cloudflared` client is the one initiating the connection. 
+
+---
+
+Cover image from: https://blog.cloudflare.com/highly-available-and-highly-scalable-cloudflare-tunnels/
