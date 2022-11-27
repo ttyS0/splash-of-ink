@@ -19,6 +19,11 @@
   name = "Stories"
   pageRef = "stories"
   weight = 20
+  
+[[main]]
+	name = "Wiki"
+	url = "https://skj.wiki"
+	weight = 30
 
 #[[main]]
 #  name = "Novels"
