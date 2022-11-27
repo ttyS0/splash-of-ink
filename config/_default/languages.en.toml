@@ -13,7 +13,7 @@ copyright = "© Sean Johnson"
 
 [author]
   name = "a collection of blogs and fiction"
-  image = "img/avatar.jpg"
+  image = "img/avatar-small.jpg"
   headline = "by sean johnson"
   links = [
     { mastodon = "https://skj.social/@sean"},
