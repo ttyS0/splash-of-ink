@@ -11,7 +11,7 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
-defaultBackgroundImage = "img/background.jpg"
+defaultBackgroundImage = "img/background-small.jpg"
 
 mainSections = ["blogs", "stories"]
 
