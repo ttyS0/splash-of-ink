@@ -28,7 +28,7 @@ mainSections = ["blogs", "stories"]
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   showRecent = true
-  showRecentItems = 9
+  showRecentItems = 6
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
