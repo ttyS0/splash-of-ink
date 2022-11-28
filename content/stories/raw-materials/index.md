@@ -6,7 +6,7 @@ showSummary: true
 tags: ["Flash Fiction", "Deadlines For Writers"]
 ---
 
-The gothic mansion was cold, unmodern, and smelled of formaldehyde. 
+The gothic mansion was cold, unmodern, and stank of formaldehyde. 
 
 Detective Evans was escorted to the Doctor's candlelit library by a gigantic man whose face was a patchwork of scars.
 
