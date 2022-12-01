@@ -1,7 +1,7 @@
 ---
 title: "Only If You Ask Nicely"
 date: 2021-10-06
-summary: "Prompt: Organize / Word Limit: 120"
+summary: "Prompt: Quick fix / Word Limit: 120"
 showSummary: true
 tags: ["Flash Fiction", "Deadlines For Writers"]
 ---
