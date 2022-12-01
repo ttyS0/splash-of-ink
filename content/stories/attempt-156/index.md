@@ -12,7 +12,7 @@ Darkness faded into a grey fog. Greyness faded into faint color. Forms coalesced
 
 "Yes! Yes, you are awake," one said, clapping.
 
-"Don't try to move. We need to do run some tests," another said, turning to a nearby console. Green text scrolled up the screen. 
+"Don't try to move. We need to run some more tests," another said, turning to a nearby console. Green text scrolled up the screen. 
 
 "Do you remember your name?" the third asked.
 
