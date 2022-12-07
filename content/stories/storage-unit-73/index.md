@@ -12,7 +12,7 @@ tags: ["Flash Fiction"]
 
 David shrugged at his attorney.
 
-"Island of the Damned. The stop motion animator." 
+"Island of the Damned? The stop motion animator." 
 
 David's demeanor turning sour, he looked back to the executor, and said, "That case was settled decades ago."
 
