@@ -46,7 +46,7 @@ The executor flipped through the pages, and shrugged, "Sell it, leave it, give i
 
 Motion lights clicked on as he walked. Stopping at Unit 73, David fished a key from his pocket, and opened the lock. With a heave, he pulled open the door, and gazed upon hundreds of tiny figurines. 
 
-Shaking his head, he muttered, "I think I'm going to enjoy throwing out all this junk. Not sure what you expected, Jerry."
+Stepping inside, he muttered, "I think I'm going to enjoy throwing out all this junk. I'm not sure what you expected, Jerry."
 
 With a crash the storage unit's door slammed closed. Turning in the darkness, David felt dozens of burning stabs beginning at his ankles, and climbing up his calves. Lightweight forms dropped onto his head, and a dozen tiny claws slashed at his face. 
 
