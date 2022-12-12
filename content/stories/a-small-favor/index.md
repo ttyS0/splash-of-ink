@@ -16,7 +16,7 @@ Answering the door, Jacob's neighbor rushed in.
 
 "I'll pay you back tomorrow, I promise!"
 
-"You really should see a doctor!," Jacob yelled as his neighbor ran out.
+"You really should see a doctor!" Jacob yelled as his neighbor ran out.
 
 
 
