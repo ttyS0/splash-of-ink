@@ -7,7 +7,7 @@ baseURL = "https://splashof.ink/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 20
+paginate = 15
 
 
 buildDrafts = false
