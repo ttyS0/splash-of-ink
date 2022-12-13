@@ -26,7 +26,7 @@ The last comment made them all snicker, like a cackle of hyenas.
 
 Tommy turned, and ran. Cars honked as he cut across lanes, his eyes blinded by tears. He didn't stop until he reached the woods surrounding the park. His legs and chest burning with exhaustion, he dropped to his knees. 
 
-A cloud of vapor surrounded him, shrouding the world. A dark ember seemed to ignite with his chest. Feeling hot breath on his face, he looked up to see a giant black haired wolf. It's yellow eyes stared at him, waiting.
+A cloud of vapor surrounded him, shrouding the world. A dark ember seemed to ignite within his chest. Feeling hot breath on his face, he looked up to see a giant black haired wolf. It's yellow eyes stared at him, waiting.
 
 Tommy nodded. 
 
