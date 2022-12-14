@@ -6,6 +6,6 @@ showSummary: true
 tags: ["Flash Fiction"]
 ---
 
-"Brian! Come in! Drop that anywhere. How's the magic business? Beer?"
+"Come in! Drop your backpack anywhere. How's the magic business? Beer?"
 
-Not to be denied, Sam Kitty pawed energetically at a blue cube poking from the backpack. With a whoosh, both Sam and cube vanished. 
+Not to be denied, a kitten pawed energetically at a blue cube poking from the backpack. With a whoosh, both kitten and cube vanished. 
