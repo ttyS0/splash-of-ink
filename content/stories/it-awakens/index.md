@@ -6,4 +6,4 @@ showSummary: true
 tags: ["Flash Fiction"]
 ---
 
-Under night's veil the forest's center briefly glows bright blue.
+Under night's veil the still forest briefly glows bright blue.
